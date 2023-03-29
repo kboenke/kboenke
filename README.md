@@ -9,7 +9,7 @@
 > JavaScript Java C# PHP LUA bash PowerShell
 > JSON SQL HTML
 > NodeJS LAMP
-> AWS Oracle-Cloud Azure Docker
+> AWS OCI Azure Docker
 > #LPIC #MCSE
 
 <!---
